@@ -1,3 +1,3 @@
 # Colores
 color scheme generator
-generador de esquemas de color
+![ref1] (https://github.com/cristianalbarenga/Colores/blob/master/circulo%20cromaticoRGBRYB.png)
