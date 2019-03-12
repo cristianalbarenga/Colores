@@ -1,3 +1,3 @@
 # Colores
 color scheme generator
-![ref1] (https://github.com/cristianalbarenga/Colores/blob/master/circulo%20cromaticoRGBRYB.png)
+![ref1](https://raw.githubusercontent.com/cristianalbarenga/Colores/master/circulo%20cromaticoRGBRYB.png)
